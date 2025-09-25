@@ -1,5 +1,9 @@
 # Do anything with the face you want 使用你想要的脸做任何事
 
+![效果图](images/b31a1d19ad68cd5387f659a8389cc28.png)
+
+
+
 This workflow is based on InstandID: https://github.com/cubiq/ComfyUI_InstantID
 
 You can load one to four images to provide the face,if you only have one photo,you can load four same images.You can load a image to control the position of the character's head in the bottom part of the purple group.
