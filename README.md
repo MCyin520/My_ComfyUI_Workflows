@@ -27,3 +27,4 @@ The blue group is used to improve the clarity of image,if you don't want this,yo
 工作流使用SDXL模型，您也可以选择合适的Lora模型来提高图像的质量。
 
 蓝色组用于提高图像的清晰度，如果不需要，可以停用该组节点。
+![效果图](images/image_J_9_oBjs_1717483504660_raw.jpg)
